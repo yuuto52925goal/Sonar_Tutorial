@@ -34,3 +34,4 @@ class Main {
         System.out.println(reader1.getNewSentence());
     }
 }
+
